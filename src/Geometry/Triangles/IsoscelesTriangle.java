@@ -1,4 +1,4 @@
-package Geometry;
+package Geometry.Triangles;
 
 public class IsoscelesTriangle extends Triangle{
     int a;
